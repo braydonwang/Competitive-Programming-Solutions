@@ -24,7 +24,7 @@ To easily navigate through all of the different sections
 
 ## Description
 
-These are some of my competitive programming solutions for platforms including DM::OJ, Codeforces and Leetcode. In total, there are over 300+ solutions that cover a wide range of different topics, contests, and platforms. 
+These are some of my competitive programming solutions for platforms including DM::OJ, Codeforces and Leetcode. In total, there are over 700+ solutions that cover a wide range of different topics, contests, and platforms. 
 
 #### DMOJ Problems
 
